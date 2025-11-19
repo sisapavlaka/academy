@@ -1,1 +1,5 @@
 .cache
+.clangd
+# Library build artifacts
+lib/*.a
+lib/*.o
